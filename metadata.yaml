@@ -1,0 +1,29 @@
+_repo: Historical-Romance-of-the-American-Negro_35189
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35189-rst/images/cover.jpg
+creator:
+  author:
+    agent_name: Fowler, Charles Henry
+    aliases:
+    - Fowler, Charles H.
+    - Fowler, C. H. (Charles Henry)
+    birthdate: 1837
+    deathdate: 1908
+    gutenberg_agent_id: '37542'
+    url: http://www.gutenberg.org/2009/agents/37542
+description: ''
+gutenberg_issued: '2011-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35189'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'African Americans -- History'
+title: Historical Romance of the American Negro
+url: http://www.gutenberg.org/ebooks/35189
